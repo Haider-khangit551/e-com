@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
-import Login from './pages/login';
-import Signup from './pages/signup';
+import Login from './pages/Login';
+import Signup from './pages/Signup';
 import Home from './pages/Home';
 import { ToastContainer } from 'react-toastify';
 import PrivateRoute from './components/ProvateRoute';
